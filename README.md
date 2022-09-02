@@ -6,9 +6,11 @@
 The application can be used by:
 
 -----------------------------
--Conveners
--Lecturers
--TA(Teaching Assistant)
+1-Conveners
+
+2-Lecturers
+
+3-TA(Teaching Assistant)
 
 Class Daigram:
 -----------------------
@@ -39,6 +41,8 @@ Simple output:
 
 
 ![Picture5](https://user-images.githubusercontent.com/70041510/188227261-894611e5-c64a-4402-9b48-28731dee9594.png)
+-------------------------------
+
 ![Picture6](https://user-images.githubusercontent.com/70041510/188227673-bd50448b-1b5b-47e0-b343-8ebc137ae7f2.png)
 
 > _2-Drop Course:_
